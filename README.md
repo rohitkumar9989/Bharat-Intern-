@@ -31,8 +31,8 @@ Clone the repository to your local machine (If needed to test and run);
 
 ``` git clone https://github.com/rohitkumar9989/Bharat-Inter ```
 ## Data Sources
-*Wine Quality Testing Data: The wine dataset was sourced from [https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009](here) and contains information about various wines, such as volatile acidity, pH, and quality.
-*House Price Prediction Data: The real estate dataset was obtained from [https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction](Kaggle) and includes property features like square footage, number of bedrooms, and price.
+* Wine Quality Testing Data: The wine dataset was sourced from [https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009](here) and contains information about various wines, such as volatile acidity, pH, and quality.
+* House Price Prediction Data: The real estate dataset was obtained from [https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction](Kaggle) and includes property features like square footage, number of bedrooms, and price.
 
 ## Wine Quality Testing
 Explore the 'wine_price_prediciton' folder for detailed documentation and Jupyter notebooks on wine quality testing. You'll find code, explanations, and visualizations related to this task.
